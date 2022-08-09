@@ -37,7 +37,7 @@
     <img width="400" height="250" src="https://user-images.githubusercontent.com/74991230/174657586-daa5dc37-107b-4402-98eb-c238afeec512.png" alt="easybank"/>
      </a>
     <a href="https://designtowebsite.github.io/GPT-3/">
-     <img width="400" height="250" src="https://user-images.githubusercontent.com/74991230/174656703-cb1db4bd-743f-4f57-a7d0-107038723927.png" alt="GTP-3" />
+     <img width="400" height="250" src="https://user-images.githubusercontent.com/74991230/183706904-13999f6f-2e77-444c-86fe-79dca7816f84.png" alt="GTP-3" />
     </a>
     <a href="https://github.com/DesignToWebsite/easybank">
       <img width="400"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DesignToWebsite&repo=easybank" />
@@ -48,7 +48,9 @@
  </p>
 
 <br>
-
+<a href="https://designtowebsite.github.io/GPT-3/">
+     <img width="400" height="250" src="https://user-images.githubusercontent.com/74991230/174656703-cb1db4bd-743f-4f57-a7d0-107038723927.png" alt="GTP-3" />
+    </a>
 ## Connect with me 
 
 [![twitter](https://user-images.githubusercontent.com/74991230/174493087-8a472f80-db6a-4acc-adf0-9c412ac89b24.png)](https://twitter.com/ZinebEsso)
