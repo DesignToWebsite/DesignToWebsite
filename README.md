@@ -48,9 +48,7 @@
  </p>
 
 <br>
-<a href="https://designtowebsite.github.io/GPT-3/">
-     <img width="400" height="250" src="https://user-images.githubusercontent.com/74991230/174656703-cb1db4bd-743f-4f57-a7d0-107038723927.png" alt="GTP-3" />
-    </a>
+
 ## Connect with me 
 
 [![twitter](https://user-images.githubusercontent.com/74991230/174493087-8a472f80-db6a-4acc-adf0-9c412ac89b24.png)](https://twitter.com/ZinebEsso)
