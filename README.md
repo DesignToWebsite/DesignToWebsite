@@ -129,3 +129,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Visitors counter 👁️‍:
+
+![Visitor Count](https://profile-counter.glitch.me/DesignToWebsite/count.svg)
+
+
