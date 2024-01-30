@@ -1,13 +1,15 @@
 
 
-<p align="center">
-  <img width="80%" alt="Hi, I am a front end development" src="https://user-images.githubusercontent.com/74991230/174492813-0c697a84-d0ac-410f-b356-76a4018dd71f.gif">
-</p>
+
+
+https://github.com/DesignToWebsite/DesignToWebsite/assets/74991230/04746eb0-12a2-484d-92bd-4f248711f536
+
+
 
 <br>
 
 - 🔭 I’m currently working on improving my skills
-- 📝 I am currently learning PHP.
+- 📝 I am currently learning RPA.
 
 <br>
 
@@ -72,6 +74,11 @@
 ![html5](https://user-images.githubusercontent.com/74991230/174493225-78e6cdb7-c05a-4f70-b39f-c733700a27dc.png)
 ![bootstrap](https://user-images.githubusercontent.com/74991230/174493226-2e48d7ba-5a6e-496c-adad-eca4af8643a8.png)
 ![github](https://user-images.githubusercontent.com/74991230/174493135-094a1301-928c-4182-ad52-2931bd42b745.png)
+<img alt="laravel_logo_logos_icon" src="https://github.com/DesignToWebsite/DesignToWebsite/assets/74991230/d9288913-1a51-4c28-8dd3-6338799e1297" width="50" />
+<img alt="cypress" src="https://github.com/DesignToWebsite/DesignToWebsite/assets/74991230/46fd58ac-56d9-4fb7-a431-6017b71b181a" width="50" />
+<img alt="php" src="https://github.com/DesignToWebsite/DesignToWebsite/assets/74991230/df0c751b-8c9e-456b-aa67-93068dcc7ce2" width="50" />
+
+
 
  
  
