@@ -1,12 +1,11 @@
 
 
-<img src="https://github.com/DesignToWebsite/DesignToWebsite/assets/74991230/44939565-a4a7-4279-a403-326f8de87bd9" alt="I'm a full stack web devoloper" width="100%" center />
-
-
+# Hello It's Essoussi Zineb
+### Welcome to my profile
 <br>
 
-- 🔭 I’m currently working on improving my skills
-- 📝 I am currently learning RPA.
+- 🔭 I’m a Software Engineering student
+-🤓 passionate about full-stack web development, task automation, and end-to-end testing.
 
 <br>
 
