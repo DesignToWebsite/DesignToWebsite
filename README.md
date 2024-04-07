@@ -1,14 +1,29 @@
+<center><a href="https://zinebessoussi.netlify.app/" target="_blank"><img src="https://github.com/DesignToWebsite/DesignToWebsite/assets/74991230/24ae64ba-c42d-473c-9f57-6c6da1b5f1d7" height="80px" width="80px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/zineb-essoussi/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter"></a></center>
 
 
-# Hello It's Essoussi Zineb
+### Hi there 👋
+## I’m a software engineering student, I am passionate about full-stack web development, task automation, and end-to-end testing.
+
+Currently learning RPA, my enthusiasm and willingness to explore new solutions illustrate my commitment to innovation in the field of computer science.
+
 ### Welcome to my profile
 <br>
 
-- 🔭 I’m a Software Engineering student
-- 🤓 passionate about full-stack web development, task automation, and end-to-end testing.
-
+- 🔭 I’m currently working on ... Cypress, Uipath, full stack development
+- 🌱 I’m currently learning ... RPA 😊
+- 👯 I’m looking to collaborate with other content creators
+- 💬 Ask me about anything in tech I bet I will answer 😂
+- ⚡ Fun fact: I love swimming, sport, and traveling
+- 📝[Resume](https://zinebessoussi.netlify.app/assets/Automation_cv-Y2oLgayj.pdf)
 <br>
 
+## Stats summary📈
+
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=DesignToWebsite&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="DesignToWebsite" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DesignToWebsite&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="DesignToWebsite" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=larymak&theme=highcontrast&hide_border=true" alt="DesignToWebsite" />
+</p>
 
 
 
@@ -22,10 +37,13 @@
 ](https://www.youtube.com/channel/UCgxzCZU9lkcoygJ7IYkIIYg)
 
 <br>
+<!--
 
+## LeetCode for lyfe! ([profile](https://leetcode.com/zineb_zineb))
 
+[![Zineb's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zineb_zineb)](https://github.com/KnlnKS/leetcode-stats)
+-->
 ## Languages and Tools
-
 
 ![visual studio](https://user-images.githubusercontent.com/74991230/174493220-97bd16f2-7079-4f61-b3a4-d60f2fe17729.png)
 ![git](https://user-images.githubusercontent.com/74991230/174493221-818b663f-4cfc-4dd3-bacd-08ba060c8f75.png)
@@ -38,6 +56,9 @@
 <img alt="laravel_logo_logos_icon" src="https://github.com/DesignToWebsite/DesignToWebsite/assets/74991230/d9288913-1a51-4c28-8dd3-6338799e1297" width="50" />
 <img alt="cypress" src="https://github.com/DesignToWebsite/DesignToWebsite/assets/74991230/46fd58ac-56d9-4fb7-a431-6017b71b181a" width="50" />
 <img alt="php" src="https://github.com/DesignToWebsite/DesignToWebsite/assets/74991230/df0c751b-8c9e-456b-aa67-93068dcc7ce2" width="50" />
+<img alt="php" src="https://github.com/DesignToWebsite/DesignToWebsite/assets/74991230/82317ee7-26e2-482a-b548-b0608b97e278" width="70" />
+
+
 
 
 
