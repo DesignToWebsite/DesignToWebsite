@@ -5,7 +5,7 @@
 <br>
 
 - 🔭 I’m a Software Engineering student
--🤓 passionate about full-stack web development, task automation, and end-to-end testing.
+- 🤓 passionate about full-stack web development, task automation, and end-to-end testing.
 
 <br>
 
