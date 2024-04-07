@@ -37,12 +37,7 @@ Currently learning RPA, my enthusiasm and willingness to explore new solutions i
 ](https://www.youtube.com/channel/UCgxzCZU9lkcoygJ7IYkIIYg)
 
 <br>
-<!--
 
-## LeetCode for lyfe! ([profile](https://leetcode.com/zineb_zineb))
-
-[![Zineb's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zineb_zineb)](https://github.com/KnlnKS/leetcode-stats)
--->
 ## Languages and Tools
 
 ![visual studio](https://user-images.githubusercontent.com/74991230/174493220-97bd16f2-7079-4f61-b3a4-d60f2fe17729.png)
@@ -58,93 +53,13 @@ Currently learning RPA, my enthusiasm and willingness to explore new solutions i
 <img alt="php" src="https://github.com/DesignToWebsite/DesignToWebsite/assets/74991230/df0c751b-8c9e-456b-aa67-93068dcc7ce2" width="50" />
 <img alt="php" src="https://github.com/DesignToWebsite/DesignToWebsite/assets/74991230/82317ee7-26e2-482a-b548-b0608b97e278" width="70" />
 
-
-
-
-
- 
- 
-<!--
-
-
-<p align="center">
-    <a href="https://github.com/DesignToWebsite/Grad-School">
-     <img width="400" height="200" src="https://user-images.githubusercontent.com/74991230/174655745-12092324-5a4b-492d-9442-6b66b9ba458b.png" alt="Grad school"/>
-    </a>
-    <a href="https://github.com/DesignToWebsite/Brand-services">
-     <img width="400" height="200" src="https://user-images.githubusercontent.com/74991230/174661171-2584a5e1-eed1-45df-a328-dca5e88b67f0.png" alt="brand services" />
-    </a>
-    <a href="https://github.com/DesignToWebsite/Grad-School">
-     <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DesignToWebsite&repo=Grad-School" />
-    </a>
-     <a href="https://github.com/DesignToWebsite/Brand-services">
-     <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DesignToWebsite&repo=Brand-services" />
-    </a>
-</p>
-
-
-
- ## My favourite projects
-   <br/>
-<p align="center">
-  <a href="#">
-   <img width="400" height="250" src="https://user-images.githubusercontent.com/74991230/174655745-12092324-5a4b-492d-9442-6b66b9ba458b.png" alt="Grad school"/>
-  </a>
-  <a href="#">
-   <img width="400" height="250" src="https://user-images.githubusercontent.com/74991230/174656703-cb1db4bd-743f-4f57-a7d0-107038723927.png" alt="GTP-3" />
-  </a>
-  <a href="#">
-   <img width="400" src="https://user-images.githubusercontent.com/74991230/174658323-29f8915e-0e90-450c-8bb8-f856069587b3.png" alt="brand services" />
-  </a>
-  
-  <a href="#">
-  <img width="400" src="https://user-images.githubusercontent.com/74991230/174657586-daa5dc37-107b-4402-98eb-c238afeec512.png" alt="easybank"/>
-   </a>
-  
-   <a href="https://github.com/DesignToWebsite/easybank">
-    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DesignToWebsite&repo=easybank" />
-  </a>
-  <a href="https://github.com/DesignToWebsite/Grad-School">
-   <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DesignToWebsite&repo=Grad-School" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DesignToWebsite&repo=GPT-3" />
-  </a> 
-   <a href="https://github.com/DesignToWebsite/Brand-services">
-   <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DesignToWebsite&repo=Brand-services" />
-  </a>
-</p>
-
-
-![youtube](https://user-images.githubusercontent.com/74991230/174493132-d415b4fe-9e88-4ce1-8aa7-300639f1dcd3.png)
-![fiverr](https://user-images.githubusercontent.com/74991230/174493137-b28c8106-2aa0-4003-b7b6-3728d7ac1acb.png)
-![facebook](https://user-images.githubusercontent.com/74991230/174493081-7fc1262f-26e7-4f82-b07b-bd9651be9d8e.png)
-![youtube](https://user-images.githubusercontent.com/74991230/174493083-7a44f772-d376-412b-ae74-14e94836be5c.png)
-![linkedin](https://user-images.githubusercontent.com/74991230/174493085-5b6d8537-e4aa-4041-bbf8-b74702492acb.png)
-![twitter](https://user-images.githubusercontent.com/74991230/174493087-8a472f80-db6a-4acc-adf0-9c412ac89b24.png)
-
-
-**DesignToWebsite/DesignToWebsite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Visitors counter 👁️‍:
 
- <br/> 
- 
-
-
-<br>
 ![Visitor Count](https://profile-counter.glitch.me/DesignToWebsite/count.svg)
 
+<!--
 
+## LeetCode for lyfe! ([profile](https://leetcode.com/zineb_zineb))
+
+[![Zineb's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zineb_zineb)](https://github.com/KnlnKS/leetcode-stats)
+-->
