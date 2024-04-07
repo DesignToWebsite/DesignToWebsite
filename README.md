@@ -10,42 +10,7 @@
 <br>
 
 
- ## My favourite projects
 
-
-<p align="center">
-    <a href="https://github.com/DesignToWebsite/Grad-School">
-     <img width="400" height="200" src="https://user-images.githubusercontent.com/74991230/174655745-12092324-5a4b-492d-9442-6b66b9ba458b.png" alt="Grad school"/>
-    </a>
-    <a href="https://github.com/DesignToWebsite/Brand-services">
-     <img width="400" height="200" src="https://user-images.githubusercontent.com/74991230/174661171-2584a5e1-eed1-45df-a328-dca5e88b67f0.png" alt="brand services" />
-    </a>
-    <a href="https://github.com/DesignToWebsite/Grad-School">
-     <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DesignToWebsite&repo=Grad-School" />
-    </a>
-     <a href="https://github.com/DesignToWebsite/Brand-services">
-     <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DesignToWebsite&repo=Brand-services" />
-    </a>
-</p>
-
- <br/> 
- 
- <p align="center"> 
-    <a href="https://github.com/DesignToWebsite/easybank">
-    <img width="400" height="250" src="https://user-images.githubusercontent.com/74991230/174657586-daa5dc37-107b-4402-98eb-c238afeec512.png" alt="easybank"/>
-     </a>
-    <a href="https://designtowebsite.github.io/GPT-3/">
-     <img width="400" height="250" src="https://user-images.githubusercontent.com/74991230/183706904-13999f6f-2e77-444c-86fe-79dca7816f84.png" alt="GTP-3" />
-    </a>
-    <a href="https://github.com/DesignToWebsite/easybank">
-      <img width="400"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DesignToWebsite&repo=easybank" />
-     </a>
-    <a href="https://designtowebsite.github.io/GPT-3/">
-      <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DesignToWebsite&repo=GPT-3" />
-    </a> 
- </p>
-
-<br>
 
 ## Connect with me 
 
@@ -79,6 +44,25 @@
  
  
 <!--
+
+
+<p align="center">
+    <a href="https://github.com/DesignToWebsite/Grad-School">
+     <img width="400" height="200" src="https://user-images.githubusercontent.com/74991230/174655745-12092324-5a4b-492d-9442-6b66b9ba458b.png" alt="Grad school"/>
+    </a>
+    <a href="https://github.com/DesignToWebsite/Brand-services">
+     <img width="400" height="200" src="https://user-images.githubusercontent.com/74991230/174661171-2584a5e1-eed1-45df-a328-dca5e88b67f0.png" alt="brand services" />
+    </a>
+    <a href="https://github.com/DesignToWebsite/Grad-School">
+     <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DesignToWebsite&repo=Grad-School" />
+    </a>
+     <a href="https://github.com/DesignToWebsite/Brand-services">
+     <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DesignToWebsite&repo=Brand-services" />
+    </a>
+</p>
+
+
+
  ## My favourite projects
    <br/>
 <p align="center">
@@ -135,6 +119,11 @@ Here are some ideas to get you started:
 
 ### Visitors counter 👁️‍:
 
+ <br/> 
+ 
+
+
+<br>
 ![Visitor Count](https://profile-counter.glitch.me/DesignToWebsite/count.svg)
 
 
