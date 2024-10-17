@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋
-## I’m a software engineering student, I am passionate about full-stack web development, task automation, and end-to-end testing.
+## I’m a software engineering, I am passionate about full-stack web development, task automation, and end-to-end testing.
 
 Currently learning RPA, my enthusiasm and willingness to explore new solutions illustrate my commitment to innovation in the field of computer science.
 
